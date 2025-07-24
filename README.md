@@ -14,6 +14,10 @@ A lightweight, accessible, and customizable product tour library for web applica
 - **Progress Tracking**: Saves user progress with localStorage
 - **Smooth Animations**: Transitions and pointer animations baked in
 
+## Demo
+
+Check out [the demo](https://tryhelpful.web.app/) to see it in action.
+
 ## Installation
 
 1. Download the following files:
@@ -28,10 +32,6 @@ A lightweight, accessible, and customizable product tour library for web applica
 ```
 
 The library will automatically initialize when the DOM is ready.
-
-## Demo
-
-Check out the demo to see it in action.
 
 ## Tour Configuration
 
